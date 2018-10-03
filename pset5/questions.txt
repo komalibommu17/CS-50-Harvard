@@ -12,7 +12,7 @@
  Meaning :-     A lung disease caused by the inhalation of very fine silica, dust causing  inflammation in the lungs.
 
  2) According to its man page, What does getrusage do?
-
+// gud
  A) Getrusage is the command used in the terminal used to get resource usage like time and  memory used.
 
  3)  Per that same man page, how many members are in a variable of type               `struct rusage`?
